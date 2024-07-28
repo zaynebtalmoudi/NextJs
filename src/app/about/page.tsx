@@ -1,14 +1,8 @@
 
 export default function About() {
   return (
-    <div>
-         <div className="dark:text-gray-200 dark:bg-slate-900">
     
-    {/* <!-- Home --> */}
-    
-
-    {/* <!-- About --> */}
-    <section id="about" className="container min-h-screen flex-center">
+    <section  className="container min-h-screen flex-center pt-20">
       <div className="">
         <div className="text-center text-balance">
           <h3>What I Know</h3>
@@ -61,15 +55,8 @@ export default function About() {
       </div>
     </section>
 
-    {/* <!-- Projects --> */}
-   
-    {/* <!-- Contact --> */}
-    
-    {/* <!-- Footer --> */}
-   
+ 
 
-  </div>
-
-    </div>
+   
   )
 }

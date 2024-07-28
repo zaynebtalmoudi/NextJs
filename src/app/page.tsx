@@ -3,7 +3,7 @@ import profile from "../assets/profile.png"
 
 export default function Home() {
   return (
-    <section className="min-h-screen container grid place-items-center relative overflow-hidden before:absolute before:top-0 before:start-1/2 before:bg-heroLight before:bg-no-repeat before:bg-top before:size-full before:-z-[1] before:transform before:-translate-x-1/2 dark:before:bg-heroDark">
+    <section className=" min-h-screen container grid place-items-center relative overflow-hidden before:absolute before:top-0 before:start-1/2 before:bg-heroLight before:bg-no-repeat before:bg-top before:size-full before:-z-[1] before:transform before:-translate-x-1/2 dark:before:bg-heroDark">
       <div className="w-full pt-20 grid md:grid-cols-6 h-full items-center max-w-6xl justify-around">
         <div className="lg:col-span-2 sm:pl-2 md:col-span-3 md:text-left text-center">
           <div>

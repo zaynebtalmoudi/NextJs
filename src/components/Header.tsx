@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Header() {
     return (
-    <div className="fixed xl:block w-full py-4 lg:px-0 px-5 z-[999] duration-300">
+    <div className="fixed xl:block w-full py-4 lg:px-0 px-5 z-[999] duration-300 " >
                 <nav className="flex justify-between items-center max-w-6xl mx-auto px-2">
                     <div className="flex gap-4 items-center">
                         <div className="bg-primary text-white rounded-full size-10 text-xl grid place-items-center">

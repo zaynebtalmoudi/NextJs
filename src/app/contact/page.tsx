@@ -2,10 +2,7 @@
 
 export default function Contact  () {
   return (
-     <section
-      id="contact"
-      className="container relative max-w-4xl mx-auto min-h-screen flex-center px-5"
-    >
+     <section className="container relative max-w-4xl mx-auto min-h-screen flex-center px-5 pt-20">
       <div className="pb-10">
         <div className="text-center">
           <h3>Contact Me</h3>

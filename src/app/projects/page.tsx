@@ -6,7 +6,7 @@ import pro3 from "../../assets/pro3.jpg"
 
 export default function Projects() {
   return (
-    <section className="container flex-center">
+    <section className="container flex-center pt-20">
       <div className="text-center text-balance">
         <h3>My Projects</h3>
         <p className="px-2 mt-3 text-gray-500">
